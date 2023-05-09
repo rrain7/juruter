@@ -27,8 +27,8 @@ jupyter lib
 jupyter notebook
 ```
 
->**NOTE**
-项目参考了 CS101L，文档中的图片也来自于此课程
+> **NOTE**
+> 项目参考了 CS101L，文档中的图片也来自于此课程
 
 ## 学习进度
 ### 1. Rust 所有权
