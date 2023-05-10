@@ -41,6 +41,4 @@ jupyter notebook
 - 参见 [custom types 1](./custom-types-1.ipynb)
 
 ### 4. 垃圾回收
-- [] todo
-
-### 5. 
+- [ ] todo
