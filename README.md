@@ -1,17 +1,18 @@
 # Rust 从放弃到入门
 
-这个教程以 `Jupyter Note` 作为基础工具，弥补传统文档和代码的不足，使用`evcxr` 让 `rust` 可以运行在 `Jupyter` 环境中。
+- 这个教程以 `Jupyter Note` 作为基础工具，弥补传统文档和代码的不足
+- 使用`evcxr` 让 `rust` 可以运行在 `Jupyter` 环境中。
 
 前提条件：需要安装 `Python3.x` 和 `Rust`
 
-安装 jupyter
+- 安装 Jupyter
 
 ```
 pip install jupyterlab
 pip install notebook
 ```
 
-在 jupyter 中运行 Rust代码
+在 Jupyter 中运行 Rust 代码
 
 可以运行如下的命令安装 `evcxr`
 
