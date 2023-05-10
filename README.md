@@ -36,3 +36,6 @@ jupyter notebook
 
 ### 2. 错误处理
 - 参见 [error handing](./error-handling.ipynb)
+
+### 3. 自定义类型-1
+- 参见 [custom types 1](./custom-types-1.ipynb)
