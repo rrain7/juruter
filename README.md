@@ -43,3 +43,6 @@ jupyter notebook
 
 ### 4. 垃圾回收
 - [ ] todo
+
+### 5. traits
+- 参见 [traits](./traits.ipynb)
