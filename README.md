@@ -46,3 +46,6 @@ jupyter notebook
 
 ### 5. traits
 - 参见 [traits](./traits.ipynb)
+
+### 6. 范型
+- 参见 [generics](./generics.ipynb)
